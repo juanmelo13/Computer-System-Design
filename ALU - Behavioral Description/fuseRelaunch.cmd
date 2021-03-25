@@ -1,1 +1,0 @@
--intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "C:/Users/Juan Jose/Documents/Academic/Spring 2021/CDA 4203L/Projects/Lab2/ALU_beh_testbench_isim_beh.exe" -prj "C:/Users/Juan Jose/Documents/Academic/Spring 2021/CDA 4203L/Projects/Lab2/ALU_beh_testbench_beh.prj" "work.ALU_beh_testbench" "work.glbl" 
