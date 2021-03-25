@@ -9,3 +9,4 @@ Projects Included:
   * ALU - Behavioral Description -- 1/31/2021
   * ALU - Structural Description -- 1/31/2021
   * BCD Programmable Counter     -- 2/7/2021
+  * GCD with FSMD -- 2/25/2021
